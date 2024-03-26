@@ -15,6 +15,6 @@ Before running this project, ensure you have the following installed:
 ## Installation
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/calculator-cli.git
+   git clone https://github.com/hafizasad419/simple-CLI-calculator.git
 
 >>>>>>> 55174e0 (create a simple CLI calculator)
